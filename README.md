@@ -18,6 +18,6 @@ __Создадим 2 различнные модели VAE и оценим ка�
 ---
  
  > Решение данного проекта представлено в формате jupiter notebook: 
- > 1) Датасет MNIST - [digits.ipynb](https://github.com/Koldim2001/Digit_generator_VAE/blob/main/digits.ipynb)
- > 2) Датасет Fashion MNIST - [fashion.ipynb](https://github.com/Koldim2001/Digit_generator_VAE/blob/main/fashion.ipynb)
+ > 1) Датасет MNIST - [digits.ipynb](https://nbviewer.org/github/Koldim2001/Generator_VAE/blob/main/digits.ipynb)
+ > 2) Датасет Fashion MNIST - [fashion.ipynb](https://nbviewer.org/github/Koldim2001/Digit_generator_VAE/blob/main/fashion.ipynb)
 
